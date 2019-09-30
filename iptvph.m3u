@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xur774y.jpg" group-title="",TFC 1
+http://190.2.154.164/TV3643
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xur774y.jpg" group-title="",TFC
+http://190.2.154.164/TV3659
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RtmWqEi.png" group-title="PHILIPPINES",Central Luzon TV 36
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8gVkEZ.png" group-title="PHILIPPINES",CNN Philippines (Opt-1)
+http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8gVkEZ.png" group-title="PHILIPPINES",CNN Philippines (Opt-2)
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yawpl4N.png" group-title="PHILIPPINES",DWKC-TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdB4KYX.png" group-title="PHILIPPINES",Inquirer 990 TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqhQm8R.png" group-title="PHILIPPINES",Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nH4oHPV.png" group-title="PHILIPPINES",MyTV Cebu 30
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9sNT9H.png" group-title="PHILIPPINES",Pop Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ML9niVH.png" group-title="PHILIPPINES",TeleNovela Channel
+http://210.210.155.35/x6bnqe/s/s81/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9vdKGy.png" group-title="PHILIPPINES",UNTV News & Rescue
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2mpHVQw.jpg" group-title="",ANC
+http://190.2.154.164/TV3654
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="",Beam TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XgSxlpi.png" group-title="",INC TV
+http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RUQASCU.png" group-title="Shop",Shop TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="",SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LwFxajv.jpg" group-title="",Telenovela Channel
+http://164.40.161.46:8003/play/s6
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="ENTERTAINMENT",HBO (USA)
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="ENTERTAINMENT",HBO 2 (USA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Unsorted;Movies",Cinemax
+http://203.207.56.228/live/iptv015.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Unsorted;Movies",Star Movies (Opt-1)
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Unsorted;Movies",Star Movies (Opt-2)
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;Movies",Star Movies (Opt-3)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel*
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="USA",Animal Planet*
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="India",Animal Planet HD
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
+#EXTINF:-1 tvg-id="10328" tvg-name="National Geographic HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/13.png" group-title="Russia;Education",National Geographic HD
+http://5.129.5.77:81/udp/239.1.17.1:1234
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-name="Redbull TV" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.redbull.tv.png" group-title="New Zealand",Redbull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="SPORTS",FightBox (USA)
+http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SPORTS",Fox Sports (UK)
+http://45.58.62.92:8080
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnS8paQ.png" group-title="UAE",Star World (SD)
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnS8paQ.png" group-title="UAE",Star World (HD)
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC*
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bbcchannels.com/brand/assets/images/channel-assets/bbc-entertainment/about-logo-bbc-entertainment.png" group-title="ENTERTAINMENT",BBC Entertainment (UK)
+http://85.244.70.140:7000/play/a00u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network
+http://95.86.32.7:999/food
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="RUSSIA",MTVmix Ufa
+http://81.30.182.82:18092/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Norway;Entertainment",MTV (Norg) [720p]
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
