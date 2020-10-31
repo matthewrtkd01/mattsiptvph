@@ -62,3 +62,57 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: CARTOON NETWORK HD
 http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: CHANNEL V
+https://www.fanmingming.cn/hls/channelv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: FOX
+http://193.64.188.131:8021/bysid/529
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: HBO
+http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: NAT GEO
+http://193.64.188.131:8021/bysid/449
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: WB TV
+http://203.154.243.89:11205/
+
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",DISCOVERY
+http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/1200px-DM_LOGO_RGB.svg.png" tvg-country="UNSORTED" tvg-url="" group-title="",Discovery Max
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="" tvg-language="" tvg-logo="https://drive.google.com/uc?export=download&id=1ueaK3Fttthvt4b3lghyCN5Gy8noVfv6D" tvg-country="UNSORTED" tvg-url="" group-title="",FOX
+http://5.135.92.133:52841/out/u/372_1.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" tvg-name="Fox Life" tvg-language="Russian" tvg-logo="https://i.imgur.com/sBmqwwQ.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Fox Life
+https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UK" tvg-url="" group-title="",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="Chinese" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" tvg-country="TW" tvg-url="" group-title="Movies",HBO Asia
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" tvg-country="UNSORTED" tvg-url="" group-title="",HD Fashion y Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",MOVIE ZONE
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="" tvg-language="" tvg-logo="https://drive.google.com/uc?export=download&id=1jiKfAB2jcuC7oDDEbpr8vGXi8IsYV9VX" tvg-country="UNSORTED" tvg-url="" group-title="Lifestyle",National Geographic
+http://5.135.92.133:52841/out/u/83_1.m3u8
